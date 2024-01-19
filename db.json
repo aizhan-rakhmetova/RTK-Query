@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "10",
+      "title": "updating title",
+      "body": "typicode"
+    },
+    {
+      "id": "12",
+      "title": "another title",
+      "body": "typicode"
+    },
+    {
+      "id": "13",
+      "title": "a title",
+      "body": "typicode"
+    },
+    {
+      "id": "14",
+      "title": "another title",
+      "body": "typicode"
+    },
+    {
+      "id": "89a3",
+      "title": "123123123",
+      "body": "123123123"
+    },
+    {
+      "id": "a3d0",
+      "title": "gggggg",
+      "body": "gggggg"
+    },
+    {
+      "id": "d89b",
+      "title": "aizhan",
+      "body": "aizhan"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
